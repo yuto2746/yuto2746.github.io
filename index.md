@@ -11,21 +11,13 @@ yuto2746 の Blog
 
 開発環境： github-pages + Jekyll 
 
-## History
-大阪府出身
+## Posts
+**<font size="3" color="#666666"> June 30, 2018</font>**
+[<font size="5"> About me</font>](./posts/2018/06/30/About me.html) 
 
-1996 年生まれ
+**<font size="3" color="#666666"> June 30, 2018</font>**
+[<font size="5"> RoomDeMulti</font>](./posts/RoomDeMulti.html)
 
-2017/9 平行計算理論研究室 所属
+**<font size="3" color="#666666"> June 30, 2018</font>**
+[<font size="5"> VirusFlyght</font>](./posts/VirusFlyght.html)
 
-2019/3 近畿大学 理工学部 情報学科 卒業見込み
-
-## My works
-
-### My [Github](https://github.com/yuto2746) ＆ [Qiita](https://qiita.com/sunameri)
-* [Github](https://github.com/yuto2746) (詳細は下記で説明します)
-* [Qiita](https://qiita.com/sunameri) (調べた内容などを記録しています)
-
-### [RoomDeMulti](./posts/RoomDeMulti.html)
-
-### [VirusFlyght](./posts/VirusFlyght.html)
