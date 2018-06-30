@@ -22,10 +22,10 @@ yuto2746 の Blog
 
 ## My works
 
-### My [github](https://github.com/yuto2746) ＆ [Qiita](https://qiita.com/sunameri)
-* [github](https://github.com/yuto2746) (詳細は下記で説明します)
+### My [Github](https://github.com/yuto2746) ＆ [Qiita](https://qiita.com/sunameri)
+* [Github](https://github.com/yuto2746) (詳細は下記で説明します)
 * [Qiita](https://qiita.com/sunameri) (調べた内容などを記録しています)
 
-### [RoomDeMulti](https://github.com/ichizero/RoomDeMulti)
+### [RoomDeMulti](./posts/RoomDeMulti.html)
 
-### [VirusFlyght](https://github.com/yuto2746/VirusFlyght)
+### [VirusFlyght](./posts/VirusFlyght.html)
