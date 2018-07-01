@@ -13,4 +13,4 @@ layout: default
  - [VirusFlyght ](https://github.com/yuto2746/VirusFlyght)(GitHub)
  - [DEMO ](https://youtu.be/G0GQd_7Tr48)(YouTube)
 
-[back](./../)
+[back](./../../posts/2018/06/30/About me.html)
