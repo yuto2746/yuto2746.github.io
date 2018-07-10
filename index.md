@@ -17,3 +17,6 @@ yuto2746 の Blog
 
 **<font size="3" color="#666666"> JUL 01, 2018</font>**
 [<font size="5"> Personal required site</font>](./posts/2018/07/01/PersonalRequiredSite.html)
+
+**<font size="3" color="#666666"> JUL 10, 2018</font>**
+[<font size="5"> Shells Setting File Details</font>](./posts/2018/07/10/Dotfiles.html)
